@@ -1,0 +1,58 @@
+Exercícios de Fundamento de TI
+
+  11  mkdir Pallet
+   12  cd Pallet
+   13  mkdir ash
+   14  clear
+   15  history
+   16  clear
+   17  mkdir pallet
+   18  cd pallet
+   19  mkdir ash
+   20  mkdir gary
+   21  mkdir oaksLAB
+   22  cd ash
+   23  touch bulbassauro.txt
+   24  clear
+   25  cd desktop
+   26  cd
+   27  cd desktop
+   28  mkdir pallet
+   29  cd pallet
+   30  mkdir ash
+   31  mkdir gary
+   32  mkdir oaksLAB
+   33  cd ash
+   34  touch bulbassauro.txt
+   35  touch butterfree.txt
+   36  touch charmander.txt
+   37  mkdir pokdex
+   38  touch zapdos
+   39  touch hoothoot.txt
+   40  cd
+   41  cd desktop
+   42  cd pallet
+   43  cd gary
+   44  touch blastoise.jpg
+   45  touch intro.mp3
+   46  touch . eevee.jpg
+   47  touch -t eevee.jpg
+   48  touch .eevee.jpg
+   49  cd..
+   50  cd ..
+   51  cd oaksLAB
+   52  touch pokedex1996.exe
+   53  touch pokedex2014.exe
+   54  touch pokedex2014.exe
+   55  history
+   56  cd ..
+   57  cd ..
+   58  ls
+   59  cd pallet
+   60  cp ash/b* oaksLAB/
+   61  cd oaksLAB
+   62  cp ../ash/charmander.txt.
+   63  cp ../ash/charmander.txt .
+   64  touch ../ash/snorlax.txt ../ash/otoodile.txt
+   65  history
+
